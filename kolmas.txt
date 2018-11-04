@@ -1,1 +1,2 @@
-Kolmannen tiedoston muuttaminen. Lisätään tähän tekstiä. 
+Kolmannen tiedoston muuttaminen. Muutetaan ja viedään muutokset staging-alueelle asti
+

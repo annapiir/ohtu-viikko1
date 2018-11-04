@@ -1,1 +1,1 @@
-Lisätään tähänkin tekstiä commitoitavaksi.
+Lisätään tähänkin tekstiä commitoitavaksi. Muutos hyväksyttäväksi.
